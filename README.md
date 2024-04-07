@@ -1,1 +1,1 @@
-Chekout my Portfolia : https://github.com/akshay-mhalaskar/Personal_Portfolio.git
+Chekout my Portfolia : https://akshay-mhalaskar.github.io/Personal_Portfolio/
